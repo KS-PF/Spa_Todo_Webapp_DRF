@@ -1,4 +1,7 @@
 # SPA-TODO-APP-FIRST-DRF
 
-ReactとDjango Rest Frameworkを用いてSPAのTodoアプリを作成する。
+
+### 概要
+- SPAのTodoアプリのバックエンド
+- Django Rest Frameworkを利用している
 
